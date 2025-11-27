@@ -16,5 +16,5 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: "🎉 Obrigado por abrir este issue! Ação funcionando! E seguimos aprendendo!!"
+              body: "🎉 Obrigado por abrir este issue! Ação funcionando! E seguimos *aprendendo*!!"
             })
